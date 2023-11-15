@@ -14,7 +14,7 @@ A basic calculator website using HTML, JavaScript, and CSS. This website support
 1. Feel free to customize the calculator to your liking.
 
 ## Contribution
-If you'd like to contribute to the development, please follow these steps:
+If you'd like to contribute to the development of this project, please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
